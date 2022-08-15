@@ -1,0 +1,16 @@
+html {
+    font-family: 'Open Sans', sans-serif;
+  }
+
+  h1 {
+    font-size: 60px;
+    text-align: center;
+    color: rgb(99, 99, 99);
+  }
+ 
+  p {
+    font-size: 30px;
+    text-align: center;
+    line-height: 2;
+    letter-spacing: 1px;
+  }
